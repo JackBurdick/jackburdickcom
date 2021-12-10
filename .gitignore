@@ -1,0 +1,15 @@
+
+# OSX
+.DS_Store
+
+### HUGO
+.hugo_build.lock
+
+# https://www.toptal.com/developers/gitignore/api/hugo
+/public/
+/resources/_gen/
+
+hugo.exe
+hugo.darwin
+hugo.linux
+
